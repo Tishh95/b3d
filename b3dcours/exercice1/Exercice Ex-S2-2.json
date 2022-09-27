@@ -1,0 +1,25 @@
+{
+  "_id": "37",
+   "first_name": "Quentin",
+  "last_name": "Tarantino",
+  "films_dirigés" : [
+    {
+     "title": "Pulp fiction",
+     "year": "1994",
+     "actors": [
+         {"artist:11", "role": "Vincent Vega" },
+         {"artist:27", "role": "Butch Coolidge"}
+       ]
+     },
+    {
+     "title": "Jacky Brown"
+    }
+   ],
+  "films_joués": [
+    {
+     "title": "Pulp fiction"
+    },
+    {
+     "title": "Reservoir Dogs",
+     }]
+}
