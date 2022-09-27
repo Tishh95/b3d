@@ -1,0 +1,28 @@
+[
+{
+  "_id": "1",
+  "email": "s@cnam.fr",
+  "nom": "Serge",
+  "visites" : [
+    {
+      "page": "http://cnam.fr/A",
+      "nbVisites": 2
+    },
+    {
+      "page": "http://cnam.fr/B",
+      "nbVisites": 1
+    }
+   ]
+ },
+ {
+  "_id": "2",
+  "email": "b@cnam.fr",
+  "nom": "Benoît",
+  "visites" : [
+    {
+      "page": "http://cnam.fr/A",
+      "nbVisites": 2
+    }
+   ]
+  }
+ ]
